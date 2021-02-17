@@ -1,0 +1,98 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #121116;
+  text-align: center;
+}
+.logo {
+  height: 36px;
+  margin: 148px;
+  margin-left: 527px;
+  margin-right: 531px;
+}
+.name {
+  width: 166px;
+  height: 17px;
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: center;
+  text-transform: uppercase;
+  font-style: normal;
+  letter-spacing: 1px;
+  line-height: normal;
+  margin: -106px;
+  margin-left: 601px;
+  margin-right: 504px;
+}
+.separator {
+  width: 230px;
+  height: 1px;
+  background-color: #ffffff;
+
+}
+.img {
+    position:absolute;
+    top: 256px;
+    margin-left: 561px;
+}
+.social {
+  padding: 145px;
+}
+.Facebook {
+  position: relative;
+  width: 7px;
+  height: 15px;
+  left: -38px;
+}
+.Google {
+  position: relative;
+  width: 16px;
+  height: 15px;
+  left: 17px;
+}
+.Twitter {
+  position: relative;
+  width: 15px;
+  height: 12px;
+  left: -10px;
+}
+.Dribble {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  left: 35px;
+}
+.footer {
+width: 250px;
+height: 16px;
+color: #ffffff;
+font-family: "Open Sans - Semibold";
+font-size: 15px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+text-align: center;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+color: #ffffff;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+color: #ffffff;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+margin: auto;
+}
+.colortext {
+  color: #19c8fa;
+}
